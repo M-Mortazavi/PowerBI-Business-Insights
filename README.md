@@ -14,7 +14,7 @@ This project demonstrates how data analytics can drive business insights using P
 📊 This project transforms raw business data into actionable insights with advanced ETL, data modeling, and visualization techniques.
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](Screen shots/dashboard-preview.png)
+![Dashboard Screenshot](Screenshots/dashboard-preview.png)
 
 📊 Steps of the Analysis
 1️⃣ Business Questions & Objectives
