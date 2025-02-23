@@ -13,6 +13,9 @@ This project demonstrates how data analytics can drive business insights using P
 * How does sales performance compare across categories?
 📊 This project transforms raw business data into actionable insights with advanced ETL, data modeling, and visualization techniques.
 
+## 📊 Dashboard Preview
+![Dashboard Screenshot](Screenshots/dashboard-preview.png)
+
 📊 Steps of the Analysis
 1️⃣ Business Questions & Objectives
 Before starting, I defined the key business problems that this analysis should solve, including sales trends, customer churn, supplier performance, and order fulfillment efficiency.
@@ -95,7 +98,7 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/PowerBI-Business-Insights-Dash
 4️⃣ Explore the interactive Power BI dashboard
 
 🌍 Live Demo & Contributions
-📌 Live Dashboard: 🔗 https://community.fabric.microsoft.com/t5/Themes-Gallery/Ecommerce-Dashboard/m-p/4423001#M4431
+📌 Live Dashboard: [👉 Click here to explore the interactive dashboard](https://community.fabric.microsoft.com/t5/Themes-Gallery/Ecommerce-Dashboard/m-p/4423001#M4431)
 📌 Contributions Welcome!
 If you have ideas for improvement, feel free to fork, explore, and contribute! 🚀
 
