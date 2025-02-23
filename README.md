@@ -11,23 +11,33 @@ This project demonstrates how data analytics can drive business insights using P
 * What percentage of sales come from new vs. returning customers?
 * How long does it take to fulfill an order?
 * How does sales performance compare across categories?
+
 📊 This project transforms raw business data into actionable insights with advanced ETL, data modeling, and visualization techniques.
+
 
 ## 📊 Dashboard Preview
 ![Dashboard Screenshot](Screenshots/dashboard-preview.png)
 
 📊 Steps of the Analysis
+
 1️⃣ Business Questions & Objectives
+
 Before starting, I defined the key business problems that this analysis should solve, including sales trends, customer churn, supplier performance, and order fulfillment efficiency.
 
 2️⃣ Data Extraction & Cleaning with Python 🐍
+
 The dataset included 8 different CSV files (Orders, Products, Customers, Suppliers, Shipments, Payments, Order Items, and Reviews).
 
 ✔ Checked for inconsistencies in data types (e.g., dates stored as text).
+
 ✔ Standardized column names for easy integration.
+
 ✔ Handled missing values (e.g., filled null values in transactions).
+
 ✔ Removed duplicate records for accurate calculations.
+
 ✔ Fixed inconsistent data patterns (e.g., phone numbers, product codes).
+
 
 📌 Tools Used: Pandas, NumPy, Jupyter Notebook
 
@@ -35,23 +45,38 @@ The dataset included 8 different CSV files (Orders, Products, Customers, Supplie
 After cleaning, the data was imported into Power BI, where I built a star schema model to optimize performance and relationships.
 
 ✔ Linked all 8 tables using primary and foreign keys.
+
 ✔ Created relationships to enable cross-table analysis.
+
 ✔ Optimized queries for faster performance.
 
 📌 Power BI Data Model Includes:
 
 Fact Tables: Orders, Payments, Shipments, Order Items
+
 Dimension Tables: Customers, Products, Suppliers, Reviews
+
+
 4️⃣ Advanced DAX Measures for Business Insights
+
 💡 Key Calculations Created Using DAX:
+
 ✔ Promotion Expenses → (Price - Price at Purchase) * Quantity
+
 ✔ Order Fulfillment Time → (Order Date - Shipment Date)
+
 ✔ Delta Sales → Comparison with previous periods.
+
 ✔ MTD Sales (Month-to-Date) → Tracks sales progress within the current month.
+
 ✔ YTD Sales (Year-to-Date) → Aggregates total sales for the current year.
+
 ✔ Last 30 Days Sales → Provides recent sales trends.
+
 ✔ AOV (Average Order Value) → Adjusts based on selected time period.
+
 ✔ Order Frequency Trend → Measures how frequently customers make purchases.
+
 ✔ Sales & Sales Evolution Per Category → Compares product categories dynamically.
 
 📌 Tools Used: DAX (Data Analysis Expressions) in Power BI
