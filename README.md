@@ -92,7 +92,7 @@ The dashboard provides clear, dynamic insights with interactive filters and KPIs
 
 📂 How to Use This Repository
 1️⃣ Clone the repository: 
-git clone https://github.com/YOUR_GITHUB_USERNAME/PowerBI-Business-Insights-Dashboard.git
+git clone https://github.com/M-Mortazavi/PowerBI-Business-Insights-Dashboard.git
 2️⃣ Open PowerBI-Dashboard.pbix in Power BI
 3️⃣ Run data_cleaning.ipynb (Jupyter Notebook) to clean new data
 4️⃣ Explore the interactive Power BI dashboard
