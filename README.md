@@ -60,49 +60,77 @@ Dimension Tables: Customers, Products, Suppliers, Reviews
 The dashboard provides clear, dynamic insights with interactive filters and KPIs.
 
 ✔ Sales & Revenue Trend Over Time → Tracks monthly and yearly sales performance.
+
 ✔ Top 5 Best-Selling & Worst-Selling Products → Dynamically updates based on filters.
+
 ✔ Customer Churn Rate → Displays retention trends over time.
+
 ✔ New vs. Returning Customer Sales → Highlights customer loyalty trends.
+
 ✔ Supplier Performance Comparison → Shows which suppliers drive the most sales.
+
 ✔ Order Fulfillment Performance → Tracks average shipping time and delays.
+
 ✔ Category-Level Sales & Sales Evolution → Compares different product categories.
+
 ✔ Dynamic KPI Cards → Shows MTD Sales, YTD Sales, Last 30 Days Sales, and AOV.
+
 ✔ Custom Slicers & Filters → Allows users to filter by date, product category, supplier, and customer type.
+
 
 📌 Tools Used: Power BI, DAX, Interactive Filters
 
-6️⃣ Sharing & Deployment 🌍
-📌 Power BI Dashboard Link: 🔗 Click Here to Explore the Dashboard
+6️⃣ How You Can Use This Dashboard:
 
-✅ How You Can Use This Dashboard:
 ✔ Identify sales trends and growth opportunities.
+
 ✔ Analyze customer behavior and optimize churn reduction strategies.
+
 ✔ Improve supplier selection by tracking performance.
+
 ✔ Optimize order fulfillment efficiency based on shipping trends.
 
 🛠️ **Technologies Used**
+
 📊 Power BI (Data Modeling, DAX, Visualizations)
+
 📈 DAX (Data Analysis Expressions)
+
 🐍 Python (Pandas, NumPy for ETL)
+
 🔄 ETL (Extract, Transform, Load) Process
+
 🗂️ Data Modeling & Star Schema
+
 📦 Business Intelligence (BI)
+
 📉 Data Visualization
+
 💡 KPI Reporting
 
+
 📂 How to Use This Repository
+
 1️⃣ Clone the repository: 
 git clone https://github.com/M-Mortazavi/PowerBI-Business-Insights-Dashboard.git
+
 2️⃣ Open PowerBI-Dashboard.pbix in Power BI
+
 3️⃣ Run data_cleaning.ipynb (Jupyter Notebook) to clean new data
+
 4️⃣ Explore the interactive Power BI dashboard
 
 🌍 Live Demo & Contributions
+
 📌 Live Dashboard: [👉 Click here to explore the interactive dashboard](https://community.fabric.microsoft.com/t5/Themes-Gallery/Ecommerce-Dashboard/m-p/4423001#M4431)
+
 📌 Contributions Welcome!
 If you have ideas for improvement, feel free to fork, explore, and contribute! 🚀
 
 📧 Contact & Feedback
-If you find this project useful or have suggestions, connect with me on:
+
+If you find this project useful or have suggestions, connect with me at:
+
 📩 Email: [MortezaMortazavi000@gmail.com]
+
 🔗 LinkedIn: https://www.linkedin.com/in/seyed-morteza-mortazavi-11b643a5/
